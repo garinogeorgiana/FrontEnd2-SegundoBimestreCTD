@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+button {
+    width: 150px;
+    color: aqua;
+    background-color: black;
+    margin: 10px;
+}
+
+p {
+    color: red;
+    margin: 10px;
+    display: inline-block;
+}
+
+.d-flex{
+    display: flex;
+    flex-direction: column;
+}
+
+.cronometro{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin:0 auto;
+    width: 75px;
+}
