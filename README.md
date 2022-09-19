@@ -5,7 +5,7 @@
 
 ## 1- Piedra papel o tijeras.
 - Interactuando con el usuario a nivel basico.
-    - https://cristaldoplf.github.io/Front-2/T1-Piedra-Papel-Tijera/
+    - https://garinogeorgiana.github.io/FrontEnd2-SegundoBimestreCTD/T1-Piedra-Papel-Tijera/
 
 
 ## 2- Tema oscuro - Felinos.
